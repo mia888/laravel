@@ -1,0 +1,2 @@
+member.php
+{{$name}}  {{$id}}
